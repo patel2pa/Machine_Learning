@@ -1,3 +1,7 @@
+'''
+Used State vector machine from the Sklearn libery to 
+analyze chanaces of breast cancer with given parameters. 
+'''
 import pandas as pd
 import numpy as np
 from sklearn import preprocessing, neighbors, svm
