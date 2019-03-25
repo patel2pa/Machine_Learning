@@ -1,3 +1,11 @@
+'''
+Used KNeighbors Classifier to analyze 
+Fruits data set. 
+Given the mass, width and height the 
+classiier will predict which fruit it is
+'''
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
