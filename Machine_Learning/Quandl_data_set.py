@@ -1,3 +1,9 @@
+'''
+used quandl to import stock data from the web, 
+saved the data into panda data set, 
+then used sklearn to predict the trend
+'''
+
 import pandas as pd
 import quandl
 import math, datetime
